@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Sierra5015
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, My name is **Nosa Oyakhire**
+#### I am a Logistician and a Data Analyst.
+![I am a Logistician and a Data Analyst.](https://pbs.twimg.com/profile_banners/1396742663844646912/1660736651/600x200)
 
-<!---
-Sierra5015/Sierra5015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics
+
+Skills: EXCEL/POWER BI/SQL/ HTML/PHOTOSHOP
+
+- 📫 How to reach me: nosa.oyakhire@outlook.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sierra5015)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Nosa_Oyakhire)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
